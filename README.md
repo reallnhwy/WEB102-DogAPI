@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://www.loom.com/share/8642b887aa2e49ab858a045b53fd344a?sid=733a2b89-348a-47e9-aa38-25f94f16fe16
+https://www.loom.com/share/e0d9fcda48fa4d23b6175fcb99a6ea65?sid=65bd6c9b-7ebb-4ecb-9c31-0511d6fae946
 
 ## Notes
 
